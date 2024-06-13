@@ -1,0 +1,46 @@
+.solida
+{
+    border-style: solid dotted dotted outset;
+    border-width: 25px 10px 4px 35px;
+    border-color: brown yellow orange green;
+}
+
+.dotted
+{
+    border-style: dotted;
+}
+
+.dashed
+{
+    border-style: dashed;
+}
+
+.double
+{
+    border-style: double;
+}
+
+.groove
+{
+    border-style: groove;
+}
+
+.inset
+{
+    border-style: inset;
+}
+
+.outset
+{
+    border-style: outset;
+}
+
+.none
+{
+    border-style: none;
+}
+
+.hidden
+{
+    border-style: hidden;
+}

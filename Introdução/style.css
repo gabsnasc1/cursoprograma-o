@@ -1,0 +1,17 @@
+h1
+{
+    background-color: rgb(98, 22, 170); color: aliceblue;
+}
+
+h2
+{
+    background-color: rgb(167, 134, 199); color: rgb(84, 32, 133);
+}
+
+body
+{
+    background-color: rgb(212, 193, 230);
+    color: rgb(87, 17, 153);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+

@@ -1,0 +1,46 @@
+body
+{
+    background-color: black;
+}
+
+.caixa
+{
+    width: 400px;
+    margin: auto;
+    border: 1px solid #6306a1;
+    color: #ccc;
+}
+
+.caixaComFlex
+{
+    width: 400px;
+    margin: auto;
+    border: 1px solid #6306a1;
+    color: #ccc;
+    display: flex;
+}
+
+.caixaComFlexWrap
+{
+    width: 400px;
+    margin: auto;
+    border: 1px solid #6306a1;
+    color: #ccc;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item
+{
+    margin: 5px;
+    background-color: rgb(255, 71, 157);
+    text-align: center;
+    font-size: 32px
+}
+
+h1
+{
+    text-align: center;
+    color: #6306a1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
